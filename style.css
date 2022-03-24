@@ -1,0 +1,43 @@
+/* CSS */
+
+.addimg{
+	width:24px;
+	height:24px;
+	display:block;
+	position:relative;
+	cursor: pointer;
+	background:url('img/plus.png') no-repeat;
+}
+
+span.delete i.closeimg{
+	width:24px;
+	height:24px;
+	display:block;
+	position:relative;
+	cursor: pointer;
+	background:url('img/remove.png') no-repeat;
+}
+
+.boton-add{
+	float: left;
+}
+
+.input-topping{
+	float: left;
+}
+
+.list-toppings{
+	clear: both;
+}
+
+.logo img{
+	margin: 0 auto;
+  	position: relative;
+  	display: block;
+  	width: 250px;
+}
+
+.input-wrapper-topping{
+	padding-left: 2rem;
+	margin-top: 10px;
+}
